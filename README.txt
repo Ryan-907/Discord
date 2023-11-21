@@ -1,0 +1,1 @@
+Simple discord bot to help with my DND campaign 
